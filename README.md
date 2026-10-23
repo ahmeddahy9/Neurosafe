@@ -7,7 +7,6 @@ NeuroSafe is a Streamlit app that downloads a documented sample of official FDA 
 lets you explore **reporting patterns** interactively, and trains a small, honestly evaluated
 *educational prototype* that predicts whether a report is flagged **Serious**.
 
-*(نبذة بالعربية: مشروع تعليمي لتحليل بلاغات الآثار الجانبية للمهدئات من بيانات FDA العامة. النتائج تصف "بلاغات" وليست مخاطر حقيقية، ولا تصلح لأي قرار علاجي.)*
 
 ---
 
